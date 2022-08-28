@@ -1,11 +1,16 @@
-cv.pdf : cv.md defaults.yaml cv.yaml
-	pandoc -o $@ -d defaults.yaml $<
+output : cv.pdf plano-trabalho.docx
 
-%.pdf : %.md defaults.yaml cv.yaml
-	pandoc -o $@ -d defaults.yaml $<
+%.docx : %.md _spec/docx.yaml %.yaml
+	pandoc -o $@ -d _spec/docx.yaml $<
 
-%.tex : %.md defaults.yaml cv.yaml
-	pandoc -o $@ -d defaults.yaml $<
+cv.pdf : cv.md _spec/defaults.yaml cv.yaml
+	pandoc -o $@ -d _spec/defaults.yaml $<
+
+%.pdf : %.md _spec/defaults.yaml cv.yaml
+	pandoc -o $@ -d _spec/defaults.yaml $<
+
+%.tex : %.md _spec/defaults.yaml cv.yaml
+	pandoc -o $@ -d _spec/defaults.yaml $<
 	
 .PHONY : clean
 clean :

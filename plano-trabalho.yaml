@@ -1,0 +1,1486 @@
+---
+references:
+- id: alarcao:2008coimbra
+  author:
+    - family: Alarcão
+      given: Jorge
+      dropping-particle: de
+  call-number: NA9226.C65 A43 2008
+  citation-key: alarcao:2008coimbra
+  event-place: Coimbra
+  ISBN: 978-989-8074-30-0
+  issued:
+    - year: 2008
+  language: pt-PT
+  number-of-pages: '308'
+  publisher: Imprensa da Universidade de Coimbra
+  publisher-place: Coimbra
+  source: Library of Congress ISBN
+  title: 'Coimbra: a montagem do cenário urbano'
+  title-short: Coimbra
+  type: book
+
+- id: alcantara:2013geografia
+  abstract: >-
+    In the late nineteenth century, Lisbon was experiencing a time of economic,
+    social and political changes, partially driven by industrial development.
+    Given the importance of urban space in the industrial progress and the
+    structuring of the working class process, we seek to build a picture of the
+    city based on the Industrial Survey from 1890 - an important source for the
+    understanding of industrial, technological and economic context of the
+    period.
+  author:
+    - family: Alcântara
+      given: Ana
+  citation-key: alcantara:2013geografia
+  container-title: >-
+    I Congresso de História do Movimento Operário e dos Movimentos Sociais em
+    Portugal
+  event-place: Lisboa
+  issued:
+    - year: 2013
+      month: 3
+  language: pt-PT
+  publisher-place: Lisboa
+  source: Zotero
+  title: Uma geografia da Lisboa operária em 1890
+  type: paper-conference
+
+- id: almeida:2011vila
+  abstract: >-
+    Dissertação de Mestrado Integrado em Arquitectura, apresentada ao
+    Departamento de Arquitectura da Faculdade de Ciências e Tecnologia da
+    Universidade de Coimbra.
+  accessed:
+    - year: 2020
+      month: 9
+      day: 1
+  author:
+    - family: Almeida
+      given: Diana Henriques Vela
+      dropping-particle: de
+  citation-key: almeida:2011vila
+  event-place: Coimbra
+  genre: Dissertação (Mestrado Integrado em Arquitectura)
+  issued:
+    - year: 2011
+  language: pt
+  license: openAccess
+  publisher: Universidade de Coimbra, Faculdade de Ciências e Tecnologia
+  publisher-place: Coimbra
+  source: estudogeral.sib.uc.pt
+  title: 'Vila Nova de Aveiro : formas urbanas reguladas'
+  title-short: Vila Nova de Aveiro
+  type: thesis
+  URL: https://estudogeral.sib.uc.pt/handle/10316/18403
+
+- id: augusto:2013praca
+  abstract: >-
+    O principal objetivo desta dissertação foi o de fazer uma análise
+    aprofundada das origens e desenvolvimento inicial da Praça de Coimbra, atual
+    Praça do Comércio, espaço situado na Baixa da cidade, tendo em conta a
+    evolução urbanística e o contexto socioeconómico da área abrangida pelas
+    antigas freguesias de S. Bartolomeu e Santiago durante a Idade Média, dentro
+    das quais a praça se inseria. O trabalho foi dividido em três partes. A
+    primeira consiste em uma contextualização inicial, onde se procurou analisar
+    a progressiva afirmação do arrabalde dentro do contexto socioeconómico da
+    cidade medieval, tendo como foco as freguesias de S. Bartolomeu e Santiago,
+    seguida de uma reconstituição do aspecto urbano dos locais de maior
+    interesse nelas inseridos, incluindo reflexões acerca da origem da Calçada,
+    através de elementos coligidos tanto em fontes publicadas como em fontes
+    inéditas. Na segunda parte tratou-se da Praça propriamente dita,
+    iniciando-se com uma abordagem ao período anterior ao seu surgimento, com o
+    objetivo de localizar sua possível matriz, para, posteriormente, analisar os
+    motivos por trás de sua formação, em finais do século XIV, assim como o seu
+    subsequente processo de desenvolvimento e afirmação. 
+
+    A terceira parte procurou traçar uma caracterização social das freguesias de
+    S. Bartolomeu e Santiago na Idade Média, analisando os personagens que
+    habitaram a área e tentando recriar alguns aspectos do cotidiano medieval
+    desta zona do arrabalde.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 11
+  author:
+    - family: Augusto
+      given: Octávio Cunha Gonçalves Simões
+  citation-key: augusto:2013praca
+  event-place: Coimbra
+  genre: Dissertação (mestrado em História)
+  issued:
+    - year: 2013
+      month: 1
+      day: 30
+  language: pt-PT
+  license: openAccess
+  publisher: Faculdade de Letras da Universidade de Coimbra
+  publisher-place: Coimbra
+  source: estudogeral.sib.uc.pt
+  title: >-
+    A Praça de Coimbra e a afirmação da Baixa: origens, evolução urbanística e
+    caracterização social
+  title-short: A Praça de Coimbra e a afirmação da Baixa
+  type: thesis
+  URL: https://estudogeral.sib.uc.pt/handle/10316/29366
+
+- id: calmeiro:2018paisagem
+  abstract: >-
+    Durante o século XIX, as intervenções oitocentistas de modernização e
+    melhoramento das cidades portuguesas adotaram os princípios de embelezamento
+    urbano, que se vinham desenvolvendo por toda a Europa, desde o século XVIII.
+    As intervenções de saneamento e infraestruturação da frente ribeirinha da
+    cidade de Coimbra no quadro nacional de emulação das experiências
+    internacionais e, para além de preconizarem uma política de projeção da
+    cidade na hierarquia territorial nacional. Mais do que um projeto de
+    modernização esta intervenção afirmou-se como um projeto simbólico de
+    construção de uma nova paisagem urbana.
+  accessed:
+    - year: 2022
+      month: 1
+      day: 26
+  author:
+    - family: Calmeiro
+      given: Margarida Relvão
+  citation-key: calmeiro:2018paisagem
+  container-title: <span class="smallcaps">CEM</span> Cultura, Espaço & Memória
+  ISSN: 2182-1097
+  issue: '4'
+  issued:
+    - year: 2018
+      month: 10
+      day: 2
+  language: pt
+  license: Copyright (c) 2018 CEM Cultura, Espaço & Memória
+  number: '4'
+  page: 71-90
+  source: aleph.letras.up.pt
+  title: >-
+    A paisagem urbana oitocentista embelezamento e política urbana na renovação
+    da imagem de Coimbra
+  type: article-journal
+  URL: http://aleph.letras.up.pt/index.php/CITCEM/article/view/4809
+
+- id: caniggia:1989permanenze
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  call-number: NA1120 .T73 1989
+  citation-key: caniggia:1989permanenze
+  container-title: Tradizione e innovazione nell'architettura di Roma capitale, 1870–1930
+  contributor:
+    - family: 'Rome (Italy : Province)'
+      given: ''
+    - family: Università degli studi di Roma "La Sapienza."
+      given: ''
+  editor:
+    - family: Strappa
+      given: Giuseppe
+  event-place: Roma
+  ISBN: 978-88-7890-011-0
+  issued:
+    - year: 1989
+  language: it
+  page: 13–25
+  publisher: Kappa
+  publisher-place: Roma
+  source: Library of Congress ISBN
+  title: Permanenze e mutazioni nel tipo edilizio e nei tessuti di Roma (1880–1930)
+  type: chapter
+
+- id: caniggia:2008lettura
+  abstract: >-
+    Questo volume si occupa di codificare il metodo per l'esecuzione di
+    operazioni di lettura delle strutture edilizie che si sono costituite in
+    passato a livello di "coscienza spontanea" in una progressione di grandezze
+    scalari che vanno dall'edificio, all'aggregazione di edifici, all'organismo
+    urbano, al territorio. L'attenzione ai prodotti architettonici del passato è
+    il campo della "tipologia processuale" che è la chiave per l'utilizzazione
+    della storia nell'operare come architetti nel mondo contemporaneo.
+  author:
+    - family: Caniggia
+      given: Gianfranco
+    - family: Maffei
+      given: Gian Luigi
+  citation-key: caniggia:2008lettura
+  edition: '2'
+  event-place: Firenze
+  ISBN: 978-88-6055-182-5
+  issued:
+    - year: 2008
+  language: it
+  number-of-pages: '276'
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Google Books
+  title: Lettura dell'edilizia di base
+  type: book
+
+- id: coelho:2013elementos
+  citation-key: coelho:2013elementos
+  collection-number: '1'
+  collection-title: 'Cadernos MUrb morfologia urbana: estudos da cidade portuguesa'
+  editor:
+    - family: Coelho
+      given: Carlos Dias
+  event-place: Lisboa
+  ISBN: 978-972-8479-78-7
+  issued:
+    - year: 2013
+  language: pt
+  publisher: Argumentum
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: Os elementos urbanos
+  type: book
+
+- id: coelho:2014tempo
+  citation-key: coelho:2014tempo
+  collection-number: '2'
+  collection-title: 'Cadernos MUrb morfologia urbana: estudos da cidade portuguesa'
+  editor:
+    - family: Coelho
+      given: Carlos Dias
+  event-place: Lisboa
+  ISBN: 978-972-8479-79-4
+  issued:
+    - year: 2014
+  language: pt-PT
+  publisher: Argumentum
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: O tempo e a forma
+  type: book
+
+- id: correia:2002habitacao
+  author:
+    - family: Correia
+      given: Mariana
+  citation-key: correia:2002habitacao
+  event-place: Santiago de Chile
+  event-title: >-
+    IV Seminario iberoamericano sobre vivienda rural y calidad de vida en los
+    asentamientos rurales
+  issued:
+    - year: 2002
+      month: 1
+  language: Portuguese
+  publisher-place: Santiago de Chile
+  title: A habitação vernácula rural no Alentejo, Portugal
+  type: paper-conference
+
+- id: diogo:2021inventing
+  author:
+    - family: Diogo
+      given: Maria Paula
+    - family: Saraiva
+      given: Tiago
+  citation-key: diogo:2021inventing
+  collection-number: '6'
+  collection-title: Synthesis lectures on global engineering
+  event-place: San Rafael, Cal.
+  ISBN: 978-1-62705-515-4 978-1-68173-787-4
+  issued:
+    - year: 2021
+  language: en
+  number-of-pages: '151'
+  publisher: Morgan & Claypool
+  publisher-place: San Rafael, Cal.
+  source: K10plus ISBN
+  title: 'Inventing a European nation: engineers for Portugal, from Baroque to Fascism'
+  title-short: Inventing a European nation
+  type: book
+
+- id: fernandes:2005urbanismo
+  author:
+    - family: Fernandes
+      given: Mário Gonçalves
+  call-number: '711'
+  citation-key: fernandes:2005urbanismo
+  collection-number: '16'
+  collection-title: Série 1
+  event-place: Porto
+  ISBN: 978-972-9483-69-1
+  issued:
+    - year: 2005
+  language: pt-PT
+  number-of-pages: '497'
+  publisher: <span class="smallcaps">FAUP</span> publicações
+  publisher-place: Porto
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    Urbanismo e morfologia urbana no norte de Portugal: Viana do Castelo, Póvoa
+    de Varzim, Guimarães, Vila Real, Chaves e Bragança entre 1852 e 1926
+  title-short: Urbanismo e morfologia urbana no norte de Portugal
+  type: book
+
+- id: fonseca:1998elites33
+  abstract: >-
+    Afastando-se da visão de um Alentejo marcado por um multissecular e
+    inexorável percurso de atraso e empobrecimento relativo no contexto
+    nacional, o artigo discute o papel desempenhado pela elite económica
+    regional durante o liberalismo. Apoiado numa prosopografia centrada nos
+    membros da elite regional da segunda metade do século XIX, o autor analisa
+    as estratégias de investimento adoptadas, as bases do financiamento e alguns
+    aspectos da organização e orientação empresarial. Deste ponto de vista, não
+    é dada como provada a visão clássica que, com base na conduta económica e
+    social, classificava estes actores sociais como uma «elite tradicional».
+    Pelo contrário, atendendo à forma diferenciada como participaram nos velhos
+    e novos negócios que deram expressão ao relativo progresso «material» da
+    região naquele período, é sustentado que a elite económica que então emergiu
+    no Alentejo foi, ao lado de outros agentes nacionais e estrangeiros, uma
+    protagonista relevante do sentido moderno que o conjunto da economia
+    regional então tomou. Além disso, a análise centrada no investimento
+    fundiário e na exploração da terra, uma opção de longo prazo indiscutível,
+    não enfraquece necessariamente aquela perspectiva e só uma apreciação
+    superficial pode associar este empenho à persistência de um influxo
+    aristocrático, uma «tara» frequentemente atribuída à burguesia nacional.
+    S'éloignant de la vision d'un Alentejo marqué par un parcours inexorable et
+    séculaire de retard et d'appauvrissement relatif dans le contexte national,
+    l'article examine le rôle joué par l'élite économique régionale durant la
+    période du libéralisme. S'étayant sur une prosopographie centrée sur les
+    membres de l'élite économique régionale de la seconde moitié du XIXe siècle,
+    l'auteur analyse les stratégies d'investissement adoptées, les bases de
+    financement, et quelques aspects de l'organisation et de l'orientation
+    industrielles. Ainsi, est remise en cause la vision classique qui, d'après
+    leur comportement économique et social, désignait ces acteurs sociaux comme
+    une «élite traditionnelle». En revanche, si l'on tient compte des
+    différentes formes que prit leur participation aux anciens et nouveaux
+    négoces qui donnèrent origine au relatif progrès «matériel» de la région à
+    cette époque, l'auteur soutient que l'élite économique alors née en
+    Alentejo, fut, aux côtés d'autres agents nationaux et étrangers, un acteur
+    important de la modernisation de l'économie régionale. Par ailleurs,
+    l'analyse centrée sur les investissements fonciers et sur l'exploitation de
+    la terre, une option à long terme indiscutable, n'affaiblit pas forcément
+    cette perspective. Seule une appréciation superficielle peut associer cet
+    engagement à la persistance d'une influence aristocratique, une « tare »
+    fréquemment attribuée à la bourgeoisie nationale. Distancing itself from a
+    view of the Alentejo marked by a century-long and inexorable history of
+    under development and poverty in relation to the rest of the country, this
+    article discusses the role of the economic elite during the liberal era.
+    Based on a prosopography focused on the members of the region's elite class
+    in the latter half of the 19th century, the author analyses some aspects of
+    the entrepreneurial organization and orientation. From this point of view,
+    the classic view, based on economic and social behaviour, that classifies
+    these social actors as a «traditional elite» is unsustainable. On the
+    contrary, in view of the differentiated way in which they took part in old
+    and new businesses, which were an expression of the relative «material»
+    progress in the region during that period, the author argues that the
+    economic elite that emerged in the Alentejo was, alongside other national
+    and foreign agents, an important protagonist in the modern outlook that the
+    whole economy of the region adopted at the time. In addition to this, an
+    analysis that focuses on the landed investment and the investment in
+    agricultural exploitation, which is, beyond question, a longterm option,
+    does not necessarily weaken this view and only a superficial appraisal could
+    link this engagement to the persistence of an aristocratic influx, a
+    «perversion» frequently attributed to the Portuguese bourgeoisie.
+  accessed:
+    - year: 2021
+      month: 7
+      day: 18
+  author:
+    - family: Fonseca
+      given: Helder Adegar
+  citation-key: fonseca:1998elites33
+  container-title: Análise Social
+  ISSN: 0003-2573
+  issue: 146/147
+  issued:
+    - year: 1998
+  language: pt-PT
+  page: 497-538
+  publisher: Instituto Ciências Sociais da Universidad de Lisboa
+  source: JSTOR
+  title: >-
+    Elites agrárias e crescimento económico na periferia portuguesa do século
+    <span class="smallcaps">XIX</span>: o exemplo do Alentejo na era liberal
+    (1850-1910)
+  title-short: >-
+    Elites agrárias e crescimento económico na periferia portuguesa do século
+    XIX
+  type: article-journal
+  URL: https://www.jstor.org/stable/41011328
+  volume: '33'
+
+- id: franca:2004pombalismo
+  author:
+    - family: França
+      given: José-Augusto
+  citation-key: franca:2004pombalismo
+  collection-editor:
+    - family: Ferreira de Almeida
+      given: Carlos Alberto
+    - family: França
+      given: José-Augusto
+    - family: Barroca
+      given: Mário Jorge
+    - family: Serrão
+      given: Vítor Manuel
+  collection-number: '5'
+  collection-title: História da arte em Portugal
+  edition: '1'
+  event-place: Lisboa
+  ISBN: >-
+    978-972-23-2827-2 978-972-23-2841-8 978-972-23-2924-8 978-972-23-3017-6
+    978-972-23-3154-8 978-972-23-3244-6
+  issued:
+    - year: 2004
+  language: pt-PT
+  publisher: Presença
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: O pombalismo e o romantismo
+  type: book
+
+- id: giannetti:2018handmade
+  author:
+    - family: Giannetti
+      given: Ilaria
+  citation-key: giannetti:2018handmade
+  container-title: Building knowledge, constructing histories
+  editor:
+    - family: Wouters
+      given: Ine
+    - family: Van de Voorde
+      given: Stephanie
+    - family: Bertels
+      given: Inge
+    - family: Jonge
+      given: Krista
+      non-dropping-particle: de
+    - family: Zastavni
+      given: Denis
+  event-place: Brussels
+  issued:
+    - year: 2018
+  language: en
+  page: 163–170
+  publisher: <span class="smallcaps">CRC</span>
+  publisher-place: Brussels
+  title: >-
+    ‘Handmade’ pre-cast concrete: the Italian experience between structural
+    engineering and industrial design (1950–80)
+  title-short: ‘Handmade’ pre-cast concrete
+  type: chapter
+  volume: '1'
+
+- id: gomes:2003cultura
+  author:
+    - family: Gomes
+      given: Maria Marques Calado de Albuquerque
+  call-number: '72'
+  citation-key: gomes:2003cultura
+  event-place: Lisboa
+  genre: Tese (Doutoramento em Arquitectura)
+  issued:
+    - year: 2003
+  language: pt-PT
+  number-of-pages: '3'
+  publisher: Universidade Técnica de Lisboa, Faculdade de Arquitectura
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'A cultura arquitectónica em Portugal: 1880-1920: tradição e inovação'
+  title-short: A cultura arquitectónica em Portugal
+  type: thesis
+
+- id: lameira:2012melhoramento
+  abstract: >-
+    The proposed essay it is an attempt to reconstruct specific moments in
+    long-term processes of the urban transformation in the Oporto's city centre.
+    Using as case studies the Sá da Bandeira Street (as a paradigm), and other
+    nearby streets as well as their buildings, the aim is to reveal and
+    underline inner formal associations between the transformation of some
+    streets' morphological character and the emergence, during the 1st half of
+    the 20th century, of a new building type: the collective housing. In the mid
+    40s, new strategies were being set towards the city expansion, specially
+    regarding the street's system redefinition. Several streets underwent
+    through this occurrence, and step-by-step incorporated modifications in the
+    urban plot's division and their construction logic. Inevitably, this carried
+    remarkable changes in the global image of the city. The research hypothesis
+    is that in this process, several streets can be seen as "typo-morphological
+    laboratories
+  accessed:
+    - year: 2020
+      month: 5
+      day: 12
+  author:
+    - family: Lameira
+      given: Gisela
+  citation-key: lameira:2012melhoramento
+  container-title: Espaço Público e Cidade Contemporânea
+  event-place: Porto
+  event-title: 6.º European Symposium on Research in Architecture and Urban Design
+  issued:
+    - year: 2012
+  language: pt-PT
+  license: openAccess
+  publisher-place: Porto
+  source: repositorio-aberto.up.pt
+  title: >-
+    Do melhoramento ao planeamento na primeira metade do século <span
+    class="smallcaps">XX</span>. Ruas enquanto laboratórios tipo-morfológicos no
+    centro urbano portuense
+  type: paper-conference
+  URL: https://repositorio-aberto.up.pt/handle/10216/64714
+
+- id: macedo:2012projectar
+  author:
+    - family: Macedo
+      given: Marta
+  call-number: T26.P6 M33 2012
+  citation-key: macedo:2012projectar
+  edition: '1'
+  event-place: Lisboa
+  ISBN: 978-972-671-295-4
+  issued:
+    - year: 2012
+  language: pt-PT
+  number-of-pages: '441'
+  publisher: Imprensa de Ciências Sociais
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: >-
+    Projectar e construir a nação: engenheiros, ciência e território em Portugal
+    no século <span class="smallcaps">XIX</span>
+  title-short: Projectar e construir a nação
+  type: book
+
+- id: martins:2013pegadas
+  abstract: >-
+    A tese foca a interdependência entre bairros tradicionais, tipos
+    edificatórios e imagem da cidade, bem como a interacção entre regulamentos
+    de construção e formas das casas. 
+
+    Para estudar o modo como alguns elementos da arquitectura da cidade, físicos
+    e abstractos, e os instrumentos de ordenamento e regulação desses elementos,
+    permeiam uns dos outros, escolheu-se, como caso de estudo, a cidade de
+    Coimbra. 
+
+    O clássico axioma morfotipológico, desenvolvido sobretudo no panorama
+    italiano dos anos cinquenta e sessenta, e retomado no contexto espanhol nas
+    décadas de oitenta e noventa, constitui o marco teórico de que se parte para
+    a constatação empírica de uns sistemas tipológicos da arquitectura; são
+    estes sistemas que permitem focar, com a segurança proporcionada pela
+    análise paramétrica, uma via de estruturação da imagem da cidade. 
+
+    A principal hipótese de trabalho é a da existência de um vínculo, evolutivo
+    e dialéctico entre as casas correntes, os tipos edificatórios que lhes estão
+    subjacentes e os planos urbanísticos e os regulamentos de edificação que
+    estiveram vigentes em cada período. 
+
+    O que se tratará de investigar e precisar, é de que forma se constitui este
+    vínculo, assim como o sentido em que evoluiu, e, por fim, os gradientes de
+    aumento e diminuição deste vínculo ao longo de um determinado arco temporal
+    que compreende todo o século XX, englobando diferentes etapas de crescimento
+    e planeamento. 
+
+    A abordagem urbanística, incluindo a análise de planos e regulamentos, bem
+    como de uma alargada compilação de licenças de habitabilidade e respectivos
+    projectos de licenciamento, confirmou, para o período estudado, uma
+    recorrente e fértil revisitação dos tipos arquitectónicos locais. 
+
+    A tese aponta para a validade de um método analítico de projecto urbano e
+    arquitectónico assente no conceito de tipo em arquitectura, e no estudo
+    prévio, como passo obrigatório, dos processos de formação, permanência e
+    transformação dos tipos edificatórios e sistemas tipológicos seus derivados.
+    Este método suporta a construção de um instrumento operativo, útil para
+    urbanistas, arquitectos e construtores, que permita seguir com o projecto da
+    cidade, através da preservação e revalorização dos tipos arquitectónicos
+    locais. 
+
+    Adicionalmente, este instrumento poderá informar os ulteriores instrumentos
+    de gestão territorial, assim como os regulamentos municipais de edificação.
+    O objectivo é o de reforçar a identidade da cidade, aprendendo das lições
+    deixadas pela história urbana local e decalcando das suas formas urbanas
+    características.
+  accessed:
+    - year: 2019
+      month: 9
+      day: 21
+  author:
+    - family: Martins
+      given: Afonso Nuno Henrique
+  citation-key: martins:2013pegadas
+  event-place: Covilhã
+  genre: Tese (Doutoramento em Arquitectura)
+  issued:
+    - year: 2013
+  language: pt-PT
+  license: openAccess
+  publisher: Universidade da Beira Interior
+  publisher-place: Covilhã
+  source: ubibliorum.ubi.pt
+  title: >-
+    A persistência do tipo : seguindo as pegadas dos planos e dos regulamentos
+    urbanos nas formas das casas de Coimbra
+  title-short: A persistência do tipo
+  type: thesis
+  URL: https://ubibliorum.ubi.pt/handle/10400.6/3137
+
+- id: martins:2014programa
+  abstract: >-
+    Este trabalho propõe como problemática central entender se as obras
+    públicas 
+
+    iniciadas em 1789 pelos ministros José de Seabra da Silva e Luís Pinto de
+    Sousa 
+
+    corresponderam a uma política do Estado para o fomento das vias de
+    transportes e 
+
+    comunicações; e se as iniciativas empreendidas, no seu conjunto, constituem
+    um programa 
+
+    global ou se, pelo contrário, não passaram de iniciativas casuísticas e
+    muitas vezes ocasionais, 
+
+    tal como formulou Artur Teodoro de Matos em 1980. Explora-se esta questão,
+    analisando e 
+
+    interpretando as origens, o desenvolvimento e o impacto das políticas para
+    as obras públicas 
+
+    implementadas pelo segundo governo mariano e continuadas pelos governos
+    seguintes até às 
+
+    invasões francesas. 
+
+    A análise tem como ponto de partida os projectos e obras empreendidos pelo
+    Estado 
+
+    central neste período de vinte anos (1789-1809). Observam-se as propostas no
+    seu contexto 
+
+    morfológico e histórico, tendo como objectivo clarificar a estrutura,
+    sequência e ritmo do 
+
+    conjunto dos trabalhos. Além disso, com esta análise, procura-se compreender
+    os conteúdos 
+
+    inerentes aos diferentes trabalhos públicos e apreender o processo de
+    concepção e de decisão. 
+
+    A perspectiva é essencialmente global, abarcando a totalidade do território
+    continental dando, 
+
+    no entanto, ênfase ao porto do Douro e à cidade do Porto, por ser a
+    experiência com maior 
+
+    articulação entre diferentes programas e escalas de intervenção. Adoptou-se
+    como método de 
+
+    trabalho o relacionamento entre acção legislativa, produção projectual e
+    experiência de obra, 
+
+    cruzando pensamento e acção na procura de interpretar as intenções e opções
+    dos políticos e as 
+
+    razões dos técnicos. 
+
+    Defende-se que o conjunto de projectos e obras empreendidos contêm uma ideia
+    de 
+
+    rede para o território. Uma rede hierarquizada no campo programático, em
+    grau crescente de 
+
+    complexidade técnica, tendo como prioridade as vias terrestres a que se
+    seguem as vias fluviais e 
+
+    marítimas. Uma rede hierarquizada no campo espacial, tendo como eixo
+    estruturante a ligação 
+
+    por via terrestre entre os dois principais centros urbanos do País, as
+    cidades portuárias de 
+
+    Lisboa e do Porto; a partir deste eixo Norte-Sul, espinha dorsal da rede
+    organizadora do 
+
+    território continental, estabelecem-se as articulações entre vias
+    terrestres, vias fluviais e espaços 
+
+    portuários. 
+
+    Coloca-se como hipótese que o objectivo deste programa tivesse por pano de
+    fundo 
+
+    promover o desenvolvimento económico do País de forma a reduzir a
+    dependência externa, 
+
+    particularmente em relação ao Brasil, e de forma a limitar a dependência
+    interna dos pequenos 
+
+    e médios centros urbanos relativamente às cidades de Lisboa e do Porto.
+    Conclui-se pela 
+
+    relevância deste programa de obras públicas cuja estrutura territorial,
+    apesar da sua parcial e 
+
+    inacabada implementação, foi continuada por Costa Cabral e consolidada por
+    Fontes Pereira 
+
+    de Melo vindo a determinar a rede de vias que veio até aos dias de hoje.
+  accessed:
+    - year: 2020
+      month: 6
+      day: 2
+  author:
+    - family: Martins
+      given: Carlos Henrique Moura Rodrigues
+  citation-key: martins:2014programa
+  event-place: Coimbra
+  genre: Tese (Doutoramento em Arquitectura))
+  issued:
+    - year: 2014
+      month: 5
+      day: 12
+  language: pt-PT
+  license: openAccess
+  publisher: Universidade de Coimbra, Faculdade de Ciências e Tecnologia
+  publisher-place: Coimbra
+  source: estudogeral.sib.uc.pt
+  title: >-
+    O programa de obras públicas para o território de Portugal continental,
+    1789-1809: intenção política e razão técnica – o Porto do Douro e a cidade
+    do Porto
+  title-short: O programa de obras públicas para o território de Portugal continental
+  type: thesis
+  URL: https://estudogeral.sib.uc.pt/handle/10316/25713
+
+- id: oliveira:2018diferentes
+  citation-key: oliveira:2018diferentes
+  editor:
+    - family: Oliveira
+      given: Vítor
+  event-place: Porto
+  ISBN: 978-989-20-8164-9
+  issued:
+    - year: 2018
+  language: pt-PT
+  publisher: Urban Forms
+  publisher-place: Porto
+  source: Zotero
+  title: Diferentes abordagens em morfologia urbana. Contributos luso-brasileiros
+  type: book
+
+- id: paixao:2016bairros
+  abstract: >-
+    The political instability lived in Portugal during the transition of the
+    19thcentury to the 20th century, strongly contributed to the shielding of
+    Portugalfrom international influences and to the need of a National
+    Identity.Yet, was born in Portugal - by the hand of those who looked in
+    modernarchitecture for a solution to the new architectural and social
+    programs - anarchitecture of inevitable modernity that searched a new path
+    towards anational architecture.The railroad architecture of the beginning of
+    the 20th century is, in thisway, product of a sifting of international
+    styles and ideologies, and of adouble filter between Europe and Portugal,
+    and Portugal and the PortugueseRailroad Company. This would result in a
+    mixed architecture, with ahybrid character, somewhere between the ideology
+    of the Casa Portuguesa(Portuguese House) and the modern programs.Essentially
+    born from a straight connection with the railroad, the city ofEntroncamento
+    doesn't show great architecture. In spite, it is an enormousfield of
+    experimentation for the new architectural doctrines and for thespacial
+    utopias that marked the end of the Portuguese and European 19thcentury and
+    the beginning of the 20th century.This work is about these experiences that
+    focused mainly on the housingcrisis and in the search of its solution.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 6
+  author:
+    - family: Paixão
+      given: Diogo Alexandre Nunes
+  citation-key: paixao:2016bairros
+  event-place: Porto
+  genre: Dissertação (Mestrado em Arquitectura)
+  issued:
+    - year: 2016
+      month: 11
+      day: 4
+  language: pt-PT
+  license: openAccess
+  publisher: Universidade do Porto, Faculdade de Arquitectura
+  publisher-place: Porto
+  source: repositorio-aberto.up.pt
+  title: >-
+    Os bairros operários da Companhia de Caminhos de Ferro Portugueses. O caso
+    do Entroncamento até à primeira metade do século <span
+    class="smallcaps">XX</span>
+  title-short: >-
+    O Caso do Entroncamento até à primeira metade do século <span
+    class="smallcaps">XX</span>
+  type: thesis
+  URL: https://repositorio-aberto.up.pt/handle/10216/86446
+
+- id: palazzo:2021casa
+  abstract: >-
+    Anais do Seminário Arquitetura Vernácula/Popular (978-65-5941-479-6) - A
+    Casa Corrente De 40 Palmos Da Era Liberal
+  accessed:
+    - year: 2022
+      month: 1
+      day: 23
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2021casa
+  container-title: Olhares sobre o Brasil
+  DOI: 10.29327/153996.2-4
+  event-place: Salvador
+  event-title: III Seminário Arquitetura Vernácula/Popular
+  ISBN: 978-65-5941-479-6
+  issued:
+    - year: 2021
+  language: pt-BR
+  license: >-
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    License (CC-BY-NC-SA)
+  publisher: >-
+    Programa de Pós-Graduação em Arquitetura e Urbanismo da <span
+    class="smallcaps">UFBA</span>
+  publisher-place: Salvador
+  title: 'A casa corrente de 40 palmos (± 2): um tipo português da idade liberal'
+  title-short: A casa corrente de 40 palmos
+  type: paper-conference
+  URL: >-
+    https//www.even3.com.br/anais/arqvernapop/387842-A-CASA-CORRENTE-DE-40-PALMOS-DA-ERA-LIBERAL
+
+- id: panerai:1997formes
+  author:
+    - family: Panerai
+      given: Philippe
+    - family: Castex
+      given: Jean
+    - family: Depaule
+      given: Jean-Charles
+  citation-key: panerai:1997formes
+  collection-title: Collection Eupalinos Série Architecture et urbanisme
+  event-place: Marseille
+  ISBN: 978-2-86364-602-1
+  issued:
+    - year: 1997
+  language: fr-FR
+  number-of-pages: '196'
+  publisher: Parenthèses
+  publisher-place: Marseille
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: 'Formes urbaines: de l''îlot à la barre'
+  title-short: Formes urbaines
+  type: book
+
+- id: parreira:2015vale
+  abstract: >-
+    Dissertação de Mestrado Integrado em Arquitectura, apresentada ao
+    Departamento de Arquitectura da Faculdade de Ciências e Tecnologia da
+    Universidade de Coimbra
+  accessed:
+    - year: 2020
+      month: 10
+      day: 12
+  author:
+    - family: Parreira
+      given: Inês Catarina Arromba da Silva
+  citation-key: parreira:2015vale
+  event-place: Coimbra
+  genre: Dissertação (Mestrado Integrado em Arquitectura)
+  issued:
+    - year: 2015
+      month: 12
+      day: 11
+  language: pt-PT
+  license: openAccess
+  publisher: Universidade de Coimbra, Faculdade de Ciências e Tecnologia
+  publisher-place: Coimbra
+  source: eg.uc.pt
+  title: 'O Vale de Santa Cruz de Coimbra : análise e reconstituição'
+  title-short: O Vale de Santa Cruz de Coimbra
+  type: thesis
+  URL: https://estudogeral.sib.uc.pt/handle/10316/30110
+
+- id: pereira:1994patios29
+  abstract: >-
+    A partir dos meados do século xix, um lento processo de industrialização vai
+    provocando a concentração em Lisboa da mão-de-obra operária. A população da
+    cidade aumenta, mas também se modifica a respectiva composição em estratos
+    diferenciados. Uma classe operária começa a emergir. Para as necessidades de
+    alojamento daquela, o próprio sistema encontra os mecanismos próprios, que
+    rasgam avenidas e urbanizam novos bairros. Mas da habitação das então
+    chamadas classes laboriosas ninguém cuida: as famílias operárias vêem-se
+    então obrigadas a procurar alojamento em espaços desocupados ou velhos
+    pardieiros arruinados, onde improvisam elas próprias precárias habitações,
+    mediante o pagamento de uma renda ao proprietário. É assim que surgem os
+    pátios. Com o incremento da indústria, acompanhado pelo das obras públicas e
+    da própria construção civil, as necessidades crescentes de mão-de-obra
+    intensificam o processo de urbanização e o afluxo de populações à capital.
+    Com este desenvolvimento, provocado pelo aumento de uma procura cada vez
+    mais intensa, aparece uma nova forma de promoção imobiliária, com a
+    construção de conjuntos habitacionais precários e de alta densidade, dando
+    origem, nos finais de Oitocentos, às vilas operárias. De uma configuração
+    muito diversificada, adaptada às dimensões do lote, ao relevo e à relação
+    com o espaço público, as vilas alastram nos primeiros anos do século actual,
+    localizando-se nas franjas periféricas da cidade, em terrenos de pouca
+    valia, muitas vezes insalubres. É o estudo destas tipologías que constitui o
+    objecto da comunicação. À partir du milieu de xixéme me siècle, un lent
+    processus d'industrialisation provoque la concentration à Lisbonne de la
+    main d'oeuvre ouvrière. La population de la ville augmente et, en parallèle,
+    sa composition en strates différenciées se modifie. Une classe ouvrière
+    commence à émerger. Le système lui-même trouve les mécanismes propres aux
+    besoins de logement de cette nouvelle classe. Les avenues sont coupées, de
+    nouveaux quartiers s'urbanisent. Mais personne ne s'occupe du logement des
+    classes alors dites laborieuses: les familles ouvrières sont obligées de se
+    loger dans des espaces inoccupés ou dans de vieux taudis en ruines, où elles
+    improvisent ellesmêmes leurs propres habitations, moyennant le paiement d'un
+    loyer au propriétaire. C'est ainsi que naissent les «pátios». Avec
+    l'expansion de l'industrie, suivie de celle des travaux publics et du
+    bâtiment, la croissance des besoins en main d'oeuvre intensifie le processus
+    d'urbanisation et l'afflux des populations dans la capitale. Ce
+    développement, provoqué par l'augmentation d'une demande de plus en plus
+    intense, entraîne une nouvelle forme de promotion immobilière. Ainsi, des
+    ensembles d'habitations précaires et à forte densité sont construits. Ils
+    sont à l'origine, à la fin du dix-huitième siècle, des cités ouvrières. La
+    configuration des cités est très diversifiée. Elles s'adaptent aux
+    dimensions du terrain, au relief et à l'espace public environnant. Situées
+    aux marges périphériques de la ville, sur des terrains de faible valeur,
+    souvent insalubres, elles se sont répandues dans les premières années de ce
+    siècle. L'objet de cet article consiste à étudier ces typologies. From the
+    mid-nineteenth century onwards, the gradual industrialisation of Lisbon
+    brought increasing numbers of factory workers to the city. The population of
+    the city increased, and at the same time the composition of social strata
+    altered, with the emergence of a working class. For the housing needs of the
+    established middle classes the urban system found its own solutions, with
+    the construction of new avenues and new quarters. However, the housing needs
+    of the so-called labouring classes were overlooked. These families were
+    therefore obliged to settle on unoccupied land or in dilapidated buildings,
+    where they improvised their own dwellings, paying rent to the landlord. The
+    «pátios» came into being. With industry, public works and civil construction
+    on the increase, growing labour needs intensified the process of
+    urbanisation and brought flocks of migrants to the city. As the demand for
+    housing grew ever faster, a new form of property development emerged, with
+    the construction of high-density and poor-quality housing, which at the end
+    of the century took the form of «vilas». The vilas were built to plans which
+    differed considerably, depending on the land available, the relief and the
+    surrounding public space. Most were built in the early years of this
+    century, located on the outer fringes of the city, on land which was cheap
+    and often insalubrious. The paper presents a study of the typologies of
+    these developments.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 6
+  archive: JSTOR
+  author:
+    - family: Pereira
+      given: Nuno Teotónio
+  citation-key: pereira:1994patios29
+  container-title: Análise Social
+  ISSN: 0003-2573
+  issue: '127'
+  issued:
+    - year: 1994
+  language: pt-PT
+  page: 509-524
+  publisher: Instituto Ciências Sociais da Universidad de Lisboa
+  source: JSTOR
+  title: >-
+    Pátios e vilas de Lisboa, 1870-1930: a promoção privada do alojamento
+    operário
+  title-short: Pátios e vilas de Lisboa
+  type: article-journal
+  URL: https://www.jstor.org/stable/41011019
+  volume: '29'
+
+- id: pinto:2012interacoes
+  abstract: >-
+    Tese de doutoramento em Arquitetura, na especialidade de Teoria e História
+    da Arquitetura, apresentada à Faculdade de Ciências e Tecnologia da
+    Universidade de Coimbra
+  accessed:
+    - year: 2020
+      month: 6
+      day: 24
+  author:
+    - family: Pinto
+      given: Sandra Mara Gameiro
+  citation-key: pinto:2012interacoes
+  event-place: Coimbra
+  genre: Tese de doutoramento em Arquitectura
+  issued:
+    - year: 2012
+      month: 7
+      day: 16
+  language: pt-PT
+  license: openAccess
+  publisher: Universidade de Coimbra, Faculdade de Ciências e Tecnologia
+  publisher-place: Coimbra
+  source: eg.uc.pt
+  title: >-
+    As interações no sistema das operações urbanísticas nos espaços urbanos
+    portugueses até meados de oitocentos
+  type: thesis
+  URL: https://estudogeral.sib.uc.pt/handle/10316/20466
+
+- id: ramos:2005casa
+  abstract: >-
+    This study is devoted to the architecture of the middle-class single-family
+    house and its domestic interior and is aimed at understanding and
+    interpreting the circumstances of the transformation they underwent in the
+    first half of the 20th century in Portugal. The house and its domestic space
+    are observed as part of a broader phenomenon of the transformation of
+    architectonic culture, in which the house is a current and significant
+    production, both in terms of the architects' work and of the globality of
+    the buildings from this period.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 6
+  author:
+    - family: Ramos
+      given: Rui Jorge Garcia
+  citation-key: ramos:2005casa
+  event-place: Porto
+  genre: Tese (Doutoramento em Arquitectura)
+  issued:
+    - year: 2005
+  language: pt-PT
+  license: openAccess
+  publisher: Universidade do Porto, Faculdade de Arquitectura
+  publisher-place: Porto
+  source: repositorio-aberto.up.pt
+  title: >-
+    A casa unifamiliar burguesa na arquitectura portuguesa: mudança e
+    continuidade no espaço doméstico na primeira metade do século <span
+    class="smallcaps">XX</span>
+  title-short: A casa unifamiliar burguesa na arquitectura portuguesa
+  type: thesis
+  URL: https://repositorio-aberto.up.pt/handle/10216/1861
+
+- id: ramos:2005producoes1
+  abstract: >-
+    The bourgeois mansions, produced by architects with classical and romantic
+    tendencies by the 19th century European schools, are simultaneous to other
+    rational and systematised production. The same offices took into account a
+    new concern on the bourgeois social space, abiding to the shape of private
+    life of the dwelling space under a controlled investment.
+  accessed:
+    - year: 2021
+      month: 7
+      day: 18
+  author:
+    - family: Ramos
+      given: Rui Jorge Garcia
+  citation-key: ramos:2005producoes1
+  container-title: NW noroeste. Revista de História
+  ISSN: 0870-9874
+  issued:
+    - year: 2005
+  language: pt-PT
+  license: openAccess
+  page: 53-80
+  source: repositorio-aberto.up.pt
+  title: >-
+    Produções correntes em arquitectura: a porta para uma diferente gramática do
+    projecto do início do século <span class="smallcaps">XX</span>
+  title-short: Produções correntes em arquitectura
+  type: article-journal
+  URL: https://repositorio-aberto.up.pt/handle/10216/5558
+  volume: '1'
+
+- id: rocha:2018paisagem
+  abstract: >-
+    Since the middle of the 19th century the city of Porto lives a period of
+    strong urban dynamism. The citygains a new configuration, occupying the more
+    peripheral zones away from the old city nucleus which wereidentified in the
+    development plan of the Almadas. The urbanization of Campo do Cirne (Quinta
+    de Reimão),located in the eastern part of the city, will take place from
+    1882 onwards. The construction of the railway station in the eastern part of
+    the city, inaugurated in 1875, was a stimulus for the valorization of this
+    area. The planning of the new streets in Porto followed a vanguard plan in
+    Portugal.The urbanization plan of Campo do Cirne reveals knowledge regarding
+    what was being done in Paris andBarcelona, under the proposals of Georges
+    Haussman and Illfons Cerdà. The urban plan of Campo do Cirne wasorganized
+    from a semi-circular square, where the main arteries started; these arteries
+    were crossed by severalstreets, according to an orthogonal plane. In the
+    urbanization plan of Campo do Cirne, the streets for this newarea of the
+    city were defined, as well as models of elevations for the houses to be
+    built in each of the arteries.Campo do Cirne is a good example of how Porto
+    and the organisms that managed it were sticking to thebest international
+    practices of urban landscape construction.
+  accessed:
+    - year: 2021
+      month: 7
+      day: 18
+  author:
+    - family: Rocha
+      given: Manuel Joaquim Moreira
+      dropping-particle: da
+    - family: Ferreira
+      given: Nuno
+  citation-key: rocha:2018paisagem
+  container-title: The overarching issues of the european space
+  event-place: Porto
+  issued:
+    - year: 2018
+  language: pt-PT
+  license: openAccess
+  page: 196-214
+  publisher: Faculdade de Letras da Universidade do Porto
+  publisher-place: Porto
+  source: repositorio-aberto.up.pt
+  title: >-
+    Paisagem urbana, morfologia e arquitetura doméstica portuense: a urbanização
+    do Campo do Cirne no século <span class="smallcaps">XIX</span>
+  title-short: Paisagem urbana, morfologia e arquitetura doméstica portuense
+  type: chapter
+  URL: https://repositorio-aberto.up.pt/handle/10216/119429
+
+- id: romaozinho:2009modernoii
+  abstract: >-
+    ará sentido falar de Arte Nova em Portugal? E se assim for, como se enquadra
+    esta ou não numa paisagem marcada por revivalismos resultantes da procura de
+    um estilo nacional? Que visões, conceitos, princípios ou utopias vinculam os
+    testemunhos do Moderno Estilo presentes em Portugal e de que modo a
+    imprensa, em particular A Construcção Moderna, impulsionou este movimento,
+    através da publicação de textos críticos, de fotografias ou desenhos de
+    modelos?
+  accessed:
+    - year: 2019
+      month: 2
+      day: 14
+  author:
+    - family: Romãozinho
+      given: Ana Mónica Pereira Reis de Matos
+  citation-key: romaozinho:2009modernoii
+  container-title: Convergências. Revista de investigação e ensino das artes
+  ISSN: 1646–9054
+  issue: '3'
+  issued:
+    - year: 2009
+  language: pt-PT
+  title: O Moderno Estylo em Portugal
+  type: article-journal
+  URL: http://convergencias.esart.ipcb.pt/?p=article&id=46
+  volume: II
+
+- id: rossa:1996rotunda
+  abstract: >-
+    Autorías: Walter Rossa, Paulo Varela Gomes.
+
+    Localización: Monumentos: Revista semestral de edifícios e monumentos. Nº 4,
+    1996.
+
+    Artículo de Revista en Dialnet.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 30
+  author:
+    - family: Rossa
+      given: Walter
+    - family: Gomes
+      given: Paulo Varela
+  citation-key: rossa:1996rotunda
+  container-title: 'Monumentos: Revista semestral de edifícios e monumentos'
+  ISSN: 0872-8747
+  issue: '4'
+  issued:
+    - year: 1996
+  language: pt-PT
+  page: 56-65
+  source: dialnet.unirioja.es
+  title: A Rotunda de Santa Maria de Celas, um caso tipológico singular
+  type: article-journal
+  URL: https://dialnet.unirioja.es/servlet/articulo?codigo=2418420
+
+- id: santos:1983planos
+  abstract: >-
+    Descreve os Planos De Groer, Almeida Garrett e Costa Lobo que foram
+    elaborados para a cidade de Coimbra
+  accessed:
+    - year: 2022
+      month: 8
+      day: 28
+  author:
+    - family: Santos
+      given: Lusitano
+      dropping-particle: dos
+  citation-key: santos:1983planos
+  collection-title: Programa «Coimbra antiga e a vivificação dos centros históricos»
+  event-place: Coimbra
+  issued:
+    - year: 1983
+  language: pt
+  publisher: Museu Nacional Machado de Castro
+  publisher-place: Coimbra
+  title: Planos de urbanização para a cidade de Coimbra
+  type: book
+  URL: >-
+    https://issuu.com/lusitanodossantos/docs/tr_s_planos_de_urbaniza__o_para_coimbra
+
+- id: saraiva:2007inventing23
+  abstract: >-
+    Although modernization theories of nationalism have stressed the
+    instrumental role of technology in the forging of nations they have
+    neglected how technology itself became a fundamental element of a new shared
+    national culture. Taking the case of the city of Lisbon during the second
+    half of the 19th century this paper aims to suggest that technological
+    artifacts, like steam engines, ports or buildings, assumed the nature of
+    national icons ready to be consumed by urban masses. It also stresses the
+    significance of mass events celebrating the capital city reforms and
+    improvements in a society with high levels of illiteracy. The Portuguese
+    example thus expands its relevance beyond the local context for it is
+    expected that it may offer new hints on how to think about technology in
+    countries depicted in the historiography exclusively by its backwardness.
+  accessed:
+    - year: 2021
+      month: 12
+      day: 1
+  author:
+    - family: Saraiva
+      given: Tiago
+  citation-key: saraiva:2007inventing23
+  container-title: History and Technology
+  DOI: 10.1080/07341510701300346
+  ISSN: 0734-1512
+  issue: '3'
+  issued:
+    - year: 2007
+      month: 9
+      day: 1
+  language: en
+  page: 263-273
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: 'Inventing the technological nation: the example of Portugal (1851–1898)'
+  title-short: Inventing the technological nation
+  type: article-journal
+  URL: https://doi.org/10.1080/07341510701300346
+  volume: '23'
+
+- id: silva:1997lisboa
+  author:
+    - family: Silva
+      given: Raquel Henriques
+      dropping-particle: da
+  call-number: '72'
+  citation-key: silva:1997lisboa
+  event-place: Lisboa
+  genre: Tese (Doutoramento em História da Arte)
+  issued:
+    - year: 1997
+  language: pt-PT
+  number-of-pages: '2'
+  publisher: Universidade Nova de Lisboa
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Lisboa romântica: urbanismo e arquitectura, 1777-1874'
+  title-short: Lisboa romântica
+  type: thesis
+
+- id: tavares:2015casas
+  author:
+    - family: Tavares
+      given: Domingos
+  call-number: MLCM 2017/43505 (N)
+  citation-key: tavares:2015casas
+  collection-title: Equações de arquitectura
+  edition: '1'
+  event-place: Porto
+  ISBN: 978-989-8217-31-8
+  issued:
+    - year: 2015
+  language: pt-PT
+  number-of-pages: '202'
+  publisher: Dafne
+  publisher-place: Porto
+  source: Library of Congress ISBN
+  title: 'Casas de Brasileiro: erudito e popular na arquitectura dos torna-viagem'
+  title-short: Casas de Brasileiro
+  type: book
+
+- id: teixeira:2004descricao
+  accessed:
+    - year: 2020
+      month: 6
+      day: 2
+  author:
+    - family: Teixeira
+      given: Joaquim
+  citation-key: teixeira:2004descricao
+  event-place: Porto
+  genre: >-
+    Prova de aptidão pedagógica e capacidade técnica para acesso à categoria de
+    Assistente
+  issued:
+    - year: 2004
+  language: pt-PT
+  license: openAccess
+  publisher: Universidade do Porto
+  publisher-place: Porto
+  source: repositorio-aberto.up.pt
+  title: >-
+    Descrição do sistema construtivo da casa burguesa do Porto entre os séculos
+    <span class="smallcaps">XVII</span> e <span class="smallcaps">XIX</span>.
+    Contributo para uma história da construção arquitectónica em Portugal
+  title-short: Descrição do sistema construtivo da casa burguesa do Porto
+  type: thesis
+  URL: https://repositorio-aberto.up.pt/handle/10216/39475
+
+- id: teixeira:2017identidade17
+  abstract: "Resumo\n\t\t\t\t\tUma das principais características do urbanismo de origem portuguesa consiste na adaptação do traçado às características morfológicas do sítio. Podemos observar as estratégias de desenho utilizadas para levar a cabo essa adaptação em múltiplas fundações urbanas, de várias épocas, quer em Portugal quer em territórios ultramarinos. Nos planos para a reconstrução de Lisboa, após o terramoto de 1755, encontramos diversas expressões da síntese da geometria, assumida como princípio regulador, com a adequação ao sítio e às preexistências. Planos subsequentes, dos séculos XIX e XX, mostram uma capacidade muito menor de o plano se articular harmoniosamente com o sítio. Os planos modernistas, a partir dos anos 1950 do século XX, completaram a rotura com a cultura urbana portuguesa. Embora atentos às condições ambientais, observa-se um distanciamento das lógicas de estruturação do território e das preexistências construídas. A identidade do urbanismo de origem portuguesa foi-se perdendo, tornando-se urgente levar a cabo uma reflexão crítica sobre o urbanismo tradicional português. Tal reflexão deve fundamentar quer a reabilitação dos tecidos urbanos históricos\_quer a concepção de novos espaços urbanos, renovando os laços com a nossa identidade cultural."
+  accessed:
+    - year: 2020
+      month: 9
+      day: 14
+  author:
+    - family: Teixeira
+      given: Manuel C.
+  citation-key: teixeira:2017identidade17
+  container-title: Cadernos de Pós-Graduação em Arquitetura e Urbanismo
+  ISSN: 1809-4120
+  issue: '2'
+  issued:
+    - year: 2017
+      month: 12
+      day: 11
+  language: pt-BR
+  license: Copyright (c) 2017 Manuel C. Teixeira
+  number: '2'
+  page: 18-18
+  source: editorarevistas.mackenzie.br
+  title: >-
+    Identidade, continuidades e descontinuidades da cultura urbana portuguesa,
+    séculos <span class="smallcaps">XVIII–XX</span>
+  title-short: Identidade, continuidades e descontinuidades da cultura urbana portuguesa
+  type: article-journal
+  URL: >-
+    http://editorarevistas.mackenzie.br/index.php/cpgau/article/view/2017.2.Teixeira
+  volume: '17'
+
+- id: teixeira:2018habitacao
+  author:
+    - family: Teixeira
+      given: Manuel C.
+  call-number: 728 (469.121)
+  citation-key: teixeira:2018habitacao
+  collection-number: '107'
+  collection-title: Biblioteca das ciências sociais. Sociologia
+  contributor:
+    - family: Távora
+      given: Fernando
+  event-place: Porto
+  ISBN: 978-972-36-1681-1
+  issued:
+    - year: 2018
+  language: pt-PT
+  number-of-pages: '397'
+  publisher: Afrontamento
+  publisher-place: Porto
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Habitação popular na cidade oitocentista: as ilhas do Porto'
+  title-short: Habitação popular na cidade oitocentista
+  type: book
+
+- id: tojal:2006arquitectura
+  abstract: "The study of the norms and usages of Faro in the 19th century gives an insight into its urban planning and architecture development. Whereas at the beginning of the century, legal provisions were kept to a minimum and had a restricted scope, in the last quarter their extension, complexity and requirements expose a town under growth and renovation. Domestic architecture using a more erudite design, which is still striking in Faro, has effects on its main arteries. While its mimetic effect confirms a generalised average trend based on the repetition of pre-existing aesthetic models with some reinterpretations, it further exposes more updated architectural languages \x96 revivalist, eclectic or exotic - that were introduced in the 19th century."
+  accessed:
+    - year: 2020
+      month: 7
+      day: 6
+  author:
+    - family: Tojal
+      given: Alexandre Arménio Maia
+  citation-key: tojal:2006arquitectura
+  container-title: Monumentos
+  ISSN: 0872-8747
+  issue: '24'
+  issued:
+    - year: 2006
+  language: pt-PT
+  page: 130-139
+  source: www.bcin.ca
+  title: >-
+    Arquitectura doméstica em Faro na segunda metade do século <span
+    class="smallcaps">XIX</span>: normas e práticas
+  title-short: >-
+    Arquitectura doméstica em Faro na segunda metade do século <span
+    class="smallcaps">XIX</span>
+  type: article-journal
+  URL: https://www.bcin.ca/bcin/detail.app?id=379481&wbdisable=true
+
+- id: trindade:2002casa
+  author:
+    - family: Trindade
+      given: Luísa
+  call-number: 728 (469.322)
+  citation-key: trindade:2002casa
+  collection-number: '1'
+  collection-title: Coimbra - Património
+  event-place: Coimbra
+  ISBN: 978-972-97542-8-9
+  issued:
+    - year: 2002
+  language: pt
+  number-of-pages: '198'
+  publisher: Câmara Municipal
+  publisher-place: Coimbra
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    A casa corrente em Coimbra: dos finais da Idade Média aos inícios da Época
+    Moderna
+  title-short: A casa corrente em Coimbra
+  type: book
+
+- id: vaz:2010patrimonio
+  abstract: "Resumen\n\t\t\t\t\tEste texto constitui um contributo para uma reavaliação do papel do centro histórico da Covilhã, cidade média que busca afirmação e cuja expansão recente é assinalável. Fazemo-lo a partir da análise do material recolhido em entrevistas a actores urbanos, individuais e colectivos, com as suas representações muito marcadas pelo mundo monoindustrial dos lanifícios e por um urbanismo tradicional típico de uma morfologia serrana.O entrelaçamento da fábrica com a malha habitacional atingiu tal densidade que a Covilhã foi classificada de “cidade-fábrica” em contraste com a industrialização difusa que deu forma a muitas outras regiões do país. Esta cenografia social e urbana é perspectivada no âmbito de uma leitura aberta do conceito de património no sentido do seu alargamento a espaços considerados com valor patrimonial hoje em obsolescência ou ameaçados de destruição e que são a marca da especificidade histórica do urbanismo da Covilhã."
+  accessed:
+    - year: 2020
+      month: 7
+      day: 6
+  author:
+    - family: Vaz
+      given: Domingos Martins
+  citation-key: vaz:2010patrimonio
+  container-title: Ciudades
+  DOI: 10.24197/ciudades.13.2010.201-218
+  ISSN: 2445-3943
+  issue: '13'
+  issued:
+    - year: 2010
+  language: pt-PT
+  license: Derechos de autor
+  number: '13'
+  page: 201-218
+  source: revistas.uva.es
+  title: >-
+    Património urbano serrano: urbanismo tradicional e cultura operária na
+    Covilhã (Portugal)
+  title-short: Património urbano serrano
+  type: article-journal
+  URL: https://revistas.uva.es/index.php/ciudades/article/view/1217
+
+- id: vignola:1853vinhola
+  author:
+    - family: Vignola
+      given: Giacomo Barozzio
+    - family: Moisy
+      given: Alexandre
+    - family: Thiollet
+      given: François
+  call-number: '72'
+  citation-key: vignola:1853vinhola
+  event-place: Paris
+  issued:
+    - year: 1853
+  language: pt
+  publisher: J. Langlumé
+  publisher-place: Paris
+  source: catalogo.bn.pt Library Catalog
+  title: >-
+    O Vinhola dos proprietarios, ou as cinco ordens de architectura segundo J.
+    Barrozio de Vinhola
+  title-short: O Vinhola dos proprietarios
+  translator:
+    - family: Fonseca
+      given: José
+      dropping-particle: da
+  type: book
+...

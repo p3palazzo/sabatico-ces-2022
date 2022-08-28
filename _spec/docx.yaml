@@ -1,0 +1,13 @@
+# This is very specific and may not work for every case.
+# Consider thinning down and, for example, creating a font package.
+from            : "markdown+raw_tex"
+to              : "docx"
+cite-method     : "citeproc"
+fail-if-warnings: false
+file-scope      : true
+filters:
+  - pandoc-crossref
+  - citeproc
+number-sections : false
+reference-doc   : "_lib/reference.docx"
+standalone      : true
