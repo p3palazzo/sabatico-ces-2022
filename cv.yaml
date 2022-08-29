@@ -31,7 +31,28 @@ references:
   language: pt-BR
   publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
   publisher-place: Brasilia
-  title: Reconhecimento e preservação da arquitetura oficial do estado novo em Cuiabá
+  title: Reconhecimento e preservação da arquitetura oficial do Estado Novo em Cuiabá
+  type: thesis
+
+- id: araujo:2024arquitetura
+  author:
+    - family: Araújo
+      given: Lucas Nunes Bastos
+      dropping-particle: de
+  citation-key: araujo:2024arquitetura
+  event-place: Brasília
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
+  issued:
+    - year: 2024
+  language: pt-BR
+  publisher: >-
+    Universidade de Brasília, Programa de Pós-Graduação em Arquitetura e
+    Urbanismo
+  publisher-place: Brasília
+  title: >-
+    Arquitetura religiosa em Goiás 1726–1899: igrejas, monumentos e residências
+    do clero
+  title-short: Arquitetura religiosa em Goiás 1726–1899
   type: thesis
 
 - id: bercott:2019historia
@@ -338,6 +359,25 @@ references:
   publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
   publisher-place: Brasília
   title: Narrativas do urbano nas Cidades Invisíveis de Italo Calvino
+  type: thesis
+
+- id: marques:2026arquitetura
+  author:
+    - family: Marques
+      given: Geovane Umbelino
+  citation-key: marques:2026arquitetura
+  event-place: Brasília
+  genre: Tese de Doutorado em Arquitetura e Urbanismo
+  issued:
+    - year: 2026
+  language: pt-BR
+  publisher: >-
+    Universidade de Brasília, Programa de Pós-Graduação em Arquitetura e
+    Urbanismo
+  publisher-place: Brasília
+  title: >-
+    Arquitetura e cidade tradicional nos quadrinhos europeus desde o século
+    <span class="smallcaps">XX</span>
   type: thesis
 
 - id: mennucci:2018catetinho2
@@ -1637,9 +1677,7 @@ references:
   license: >-
     Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
     License (CC-BY-NC-SA)
-  publisher: >-
-    Programa de Pós-Graduação em Arquitetura e Urbanismo da <span
-    class="smallcaps">UFBA</span>
+  publisher: <span class="smallcaps">UFBA</span>
   publisher-place: Salvador
   title: 'A casa corrente de 40 palmos (± 2): um tipo português da idade liberal'
   title-short: A casa corrente de 40 palmos
@@ -1760,7 +1798,7 @@ references:
       day: 13
   author:
     - family: Palazzo
-      given: Pedro Paulo
+      given: Pedro P.
   citation-key: palazzo:2021programa
   container-title: revista PH
   container-title-short: revistaph

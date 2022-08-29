@@ -8,13 +8,13 @@ nocite  : "@*"
 lang    : 'pt-PT'
 abstract: |
   Plano de trabalho submetido ao Centro de Estudos Sociais da
-  Universidade de Coimbra, visando a realizar uma estadia enquanto
+  Universidade de Coimbra, com vistas a realizar uma estadia enquanto
   investigador visitante junto ao Núcleo de Cidades, Culturas e
   Arquiteturas, em interlocução com o Dr. Tiago Castela, no período de 3
   de outubro de 2022 a 13 de março de 2023. Esta investigação leva
   adiante e detalha um aspeto do trabalho já desenvolvido no
-  [CES]{.smallcaps} em 2019--2020, no quadro do plano de trabalho
-  « Raízes portuguesas da arquitetura brasileira na Belle Époque ».
+  [CES]{.smallcaps} em 2019--2020, no quadro da investigação
+  «Raízes portuguesas da arquitetura brasileira na Belle Époque».
 ---
 
 # Objeto da investigação #

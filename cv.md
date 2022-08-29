@@ -1,471 +1,537 @@
 ---
 title: "Pedro P. Palazzo"
-author: 'pedro@palazzo.pt · +351 914 896 380 · \@p3palazzo'
-date: "Updated June 23^rd^, 2020"
-lang: en-GB
+author: 'palazzo@unb.br · +351 914 896 380 · \@p3palazzo · https://palazzo.pt'
+date: 'Atualizado a 29 de agosto de 2022'
+lang: pt-PT
 abstract: |
-  Architectural historian and preservationist specialising in the
-  Beaux-Arts tradition and in vernacular building cultures of the
-  Portuguese speaking world, with particular interest in their
-  interfaces with the onset of modern construction (late 17^th^ to late
-  19^th^century). 15 years of teaching experience in history and theory
-  of architecture (antiquity to 19^th^ century) and historic
-  preservation, at undergraduate and postgraduate levels. Part of
-  research projects and networks with universities in Belgium, Italy,
-  Portugal, and Spain.
+  Doutor em Arquitetura e Urbanismo. Professor e investigador em teoria
+  e história da arquitetura e do urbanismo desde 2007. Tem lecionado
+  unidades curriculares de história da arquitetura antiga, medieval e
+  moderna, e investiga a história da construção luso-brasileira bem como
+  a teoria da morfologia urbana e da preservação do património.
+  Participa de redes de investigação em Portugal, Espanha, Itália,
+  Bélgica e Brasil.
+
+  ####
+
+  | [\aiCIENCIAVITAE cienciavitae.pt/portal/D91E-0C60-B56B](https://cienciavitae.pt/portal/D91E-0C60-B56B)
+  | [\aiOrcid orcid.org/0000-0002-0187-774x](https://orcid.org/0000-0002-0187-774X)
+
 ---
 
 ```{=latex}
+\vspace{1em}
+
 \begin{multicols}{2}
 ```
 
-#### Visiting researcher ####
+#### Professor associado ####
 
 |  
-| Centro de Humanidades [(CHAM)]{.smallcaps}
-| Universidade [NOVA]{.smallcaps} de Lisboa
-| TechNetEmpire research project
-| +351 914 896 380
-
-#### Associate professor ####
-
-|  
-| University of Brasilia
-| School of Architecture and Urbanism
-| Campus Darcy Ribeiro Gleba A
-| [ICC]{.smallcaps} Norte [ASS--585/9]{.smallcaps}
+| Universidade de Brasília
+| Faculdade de Arquitetura e Urbanismo
+| [ICC]{.smallcaps} Norte sala [ASS--585/9]{.smallcaps}
 | Brasília [DF]{.smallcaps} 70.910--900
-| www.fau.unb.br · palazzo@unb.br
-| +55 61 31 07 74 49
+| www.fau.unb.br
 
-#### Partner, Consultant ####
+#### Sócio e consultor ####
 
 |  
-| Ábaco Arquitetura *&* Design Ambiental
+| Ábaco Arquitetura Lda.
 | [SGAN]{.smallcaps} 912 Módulo C Sala [A--13]{.smallcaps}
 | Brasília [DF]{.smallcaps} 70.790--123
 | www.abaco-arquitetura.com.br
 
-#### Research group leader ####
-
-|  
-| Documentation, Modelling, and Conservation
-| of Historic Sites
-| www.labeurbe.unb.br
-
 \columnbreak
 
-#### Education ####
+2010 Doutor
+: \
+  Arquitetura e Urbanismo
+: Universidade de Brasília,
+  estágio na Université de Paris IV--Sorbonne
 
-2010
-: Ph.D in Aesthetics and Semiology of Architecture and Urbanism
-: Dissertation: *Historiography and critique of the East façade of the
-  Louvre, 1664--1964*
-: University of Brasilia
-: Supervisor: Dr Flavio Kothe
-: Co-supervisor: Dr Claude Mignot,
-  Université de Paris IV--Sorbonne
+2022
+: Reconhecimento em Portugal pela  
+  Universidade de Coimbra
+:  
 
-2006
-: Master in Theory, History, and Criticism of
-  Architecture and Urbanism
-: Thesis: *The order of distinction: monumentality in inter-war
-  architecture*
-: University of Brasilia
-: Supervisor: Dr Sylvia Ficher
+2005 Licenciado
+: \
+  Arquitetura e Urbanismo
+: Universidade de Brasília
+:  
 
-2005
-: Bachelor of Architecture and Urbanism (professional degree)
-: University of Brasilia
-
-2003
-: Bachelor of Science in Architecture
-: Certificate in East Asian Studies
-: University of Maryland at College Park
+2003 Bacharel
+: \
+  Arquitetura
+: Especialização em Estudos do Extremo-Oriente
+: University of Maryland
+:  
 
 ```{=latex}
 \end{multicols}
 ```
 
-# Academic and Research Affiliations #
+# Investigação financiada #
 
-2020--
-: University of Brasilia School of Architecture and Urbanism
-: Associate professor, undergraduate and postgraduate teaching and
-  research.
+Coordenador dos projetos exceto onde especificado.
 
-2020--
-: Centre for Humanities ([CHAM]{.smallcaps}), Universidade Nova de
-  Lisboa Faculty of Social Sciences and Humanities
-  ([NOVA--FCSH]{.smallcaps})
-: Visiting researcher.
+2020--2022
+: *TechNetEmpire: Redes técnico-científicas na formação do
+  ambiente construído no império português (1647--1871)*
+: Coordenado por Alice Faria e Renata Araujo,
+  [NOVA--FCSH--CHAM]{.smallcaps}.
+: Financiador: [FCT]{.smallcaps}
 
-2019--2020
-: Centre for Social Studies ([CES]{.smallcaps}), University of Coimbra
-: Visiting researcher.
+2019--2024
+: *Resiliência urbana: estratégias adaptativas na construção
+  tradicional*
+: Financiador: CNPq, Conselho Nacional de Desenvolvimento
+  Científico e Tecnológico (Brasil) e
+  [FAP--DF]{.smallcaps}, Fundação de Apoio à Pesquisa do
+  Distrito Federal (Brasil)
 
-2010--2014, 2016--2020
-: University of Brasilia School of Architecture and Urbanism
-: Assistant professor, undergraduate and postgraduate teaching and
-  research.
+2018--2022
+: *Clássico tradicional eclético: cosmopolitismo e nacionalismo na
+  cidade industrial*
+: Financiador: [FAP--DF]{.smallcaps} e [CAPES]{.smallcaps},
+  Coordenação de Aperfeiçoamento do Pessoal de Nível Superior
+  (Brasil)
+
+2014--2018
+: *Urbanização, arte e crítica na primeira República brasileira*
+: Financiador: [CAPES]{.smallcaps}
+
+2013--2020
+: *Documentação e modelagem da arquitetura tradicional luso-brasileira*
+: Financiador: CNPq
+
+# Produção de material didático #
+
+Unidades curriculares reformuladas para o ensino online durante a
+pandemia da Covid--19, com reorganização dos conteúdos e escrita de
+notas de aula para acompanhamento do semestre. O conteúdo assim
+oferecido expande o viés programático eurocêntrico para incorporar
+perspetivas globais e vincular o estudo da História à formação
+profissional do arquiteto.
+
+2020
+: [TAU 0005]{.smallcaps} História da Arquitetura e da Arte I
+: Arquitetura e urbanismo antigo e medieval.
+: Unidade curricular do 1.º ciclo, 1.º ano do Mestrado Integrado em
+  Arquitetura e Urbanismo na Universidade de Brasília.
+: https://palazzo.arq.br/tau0005/
+
+<!-- -->
+
+2020
+: [TAU 0006]{.smallcaps} História da Arquitetura e da Arte II
+: Arquitetura e urbanismo da Idade Moderna.
+: Unidade curricular do 1.º ciclo, 2.º ano do Mestrado Integrado em
+  Arquitetura e Urbanismo na Universidade de Brasília.
+: https://palazzo.arq.br/tau0006/
+
+# Docência #
+
+## Universidade de Brasília ##
+
+2020--    
+: Professor Associado
+
+2010--2020
+: Professor Assistente
+
+2007--2009
+: Professor Substituto
+
+#### Graduação em Arquitetura e Urbanismo ####
+
+- Arquitetura e Urbanismo no Brasil Colónia e Império
+- Arquitetura e Urbanismo do Brasil Contemporâneo (período republicano)
+- História da Arquitetura e da Arte I e II (Antiguidade--século
+  [XVIII]{.smallcaps})
+- Morfologia Arquitectónica
+- Morfologia Urbana
+- Projeto--Dissertação
+
+#### Mestrado Avançado e Doutoramento em Arquitetura e Urbanismo ####
+
+- Racionalismo, Antirracionalismo e Analogias na Arquitetura
+- Teorias da Arquitetura
+- Teoria do Conhecimento e dos Espaços Construídos
+- Conservação do Património Moderno
+
+## Universidade Federal do Rio de Janeiro ##
 
 2014--2016
-: Federal University of Rio de Janeiro School of Fine Arts, Department
-  of Art History
-: Assistant professor, undergraduate teaching in the Bachelor of
-  Conservation and Restoration programme, research.
+: Professor Assistente
 
-2009--
-: Ábaco Arquitetura *&* Design Ambiental Ltd., Brasilia, Brazil
-: Partner, consultant in architecture and historic preservation.
+#### Graduação em Conservação e Restauro ####
+
+- História da Arte no Brasil II e III (séculos [XVI--XIX]{.smallcaps})
+- História da Arte na Europa IV e V (séculos [XVII--XIX]{.smallcaps})
+- Mercado de Arte
+
+## Centro Universitário Euro-Americano, Brasília ##
 
 2006--2010
-: Centro Universitário Euro-Americano, Brasilia, Brazil
-: Lecturer, undergraduate teaching.
+: Professor
 
-# Research and Funding #
+#### Bacharelados em Arquitetura e Design de Interiores ####
 
-All projects conducted as Principal Investigator unless noted otherwise.
+- História da Arquitetura, dos Interiores e do Mobiliário
+- História da Arte
+- Teoria da Conservação de Bens Culturais
+- Projeto de Urbanismo
 
-2020--
-: *TechNetEmpire: Technical--scientific Networks in the built
-  environment of the Portuguese Empire (1647--1871)*
-: Project coordinated by Alice Faria and Renata Araujo,
-  [NOVA--FCSH--CHAM]{.smallcaps}
-: Funded by [FCT]{.smallcaps}, Portuguese
-  Foundation for Science and Technology.
+## Docência em cursos de curta duração ##
 
-2019--
-: *Adaptive Strategies in Traditional Building and Urbanism*
-: Research project funded by CNPq, National Council for Scientific and
-  Technological Development, Brazilian Ministry of Science and
-  Technology.
+2022
+: *Escola de Verão em Arquitetura Tradicional*
+: [INTBAU]{.smallcaps} e Premio Rafael Manzano,
+  Lajes do Pico, Açores
 
-2019--
-: *Classic, Traditional, Eclectic: Cosmopolitanism and Nationalism
-  in the Long 19^th^ Century*
-: Research project funded by [FAP--DF]{.smallcaps},
-  Federal District Research Foundation, Brazil.
-
-2016--2018
-: *Structure and Representation: the roots of design in architecture and
-  construction*
-: Researcher, bilateral exchange committee member
-: Joint research project: Université catholique de Louvain,
-  University of Brasilia, and University of Rome 2 « Tor Vergata ».
-: Funded internally by participating institutions.
-
-2014--2019
-: *Urbanisation, Art, and Criticism in Brazil's First Republic*
-: Research project funded by [CAPES]{.smallcaps}, Brazilian Ministry of
-  Education Agency for the Improvement of Higher Education.
-
-2011--2018
-: *Documentation and modelling of traditional architectural features*
-: Project associated with professional studies contracted and funded by
-  [IPHAN]{.smallcaps}, National Historic and Artistic Heritage Institute, Brazil.
-
-2007--2010
-: *Historiography and Critique of the East Façade of the Louvre,
-  1664--1964*
-: Doctoral research
-  partially funded by a foreign study grant from
-  [CAPES]{.smallcaps}.
-
-# Publications in English #
-
-Article accepted for publication
-: 'Vernacular Patterns in Portugal and Brazil: Evolution and
-  Adaptations,' *Journal of Traditional Building, Architecture and
-  Urbanism* no. 2 (2021).
+2022
+: *École d'été d'architecture traditionnelle de Belgique*
+: La Table Ronde de l'Architecture,
+  Bruges
 
 2021
-~ [-@palazzo:2021death]
-
-2020
-: [-@palazzo:2020literary32]
-
-2019
-: [-@ficher:2019mello] Coauthored with Sylvia Ficher.
-
-2018
-: [-@palazzo:2018gis3] Coauthored with Ana Laterza.
-
-2018
-: [-@palazzo:2018gis-assisted10]
-
-2018
-: [-@palazzo:2018tipologia]
-
-2018
-: [-@palazzo:2018accouplement2]
-
-2018
-: [-@mennucci:2018catetinho2] Coauthored with Marina Mennucci.
-
-2017
-: [-@palazzo:2017missing] Coauthored with Ana Amélia de Paula Moura.
-
-2014
-: [-@palazzo:2014urbanisation2]
+: *École d'été d'architecture traditionnelle de Belgique*
+: La Table Ronde de l'Architecture,
+  Bruxelas
 
 2013
-: [-@palazzo:2013citta65] Coauthored with Ricardo Trevisan.
+: *Arquitetura de Museus*
+: Instituto Brasileiro de Museus,
+  Brasília
 
-2012
-: [-@palazzo:2012capital239] Coauthored with Luciana Saboia.
+# Comités científicos, editoriais e de eventos #
 
-2012
-: [-@palazzo:2012architecture5]
-
-2010
-: [-@ficher:2010modern] Coauthored with Sylvia Ficher.
-
-# Other Publications #
-
-Upcoming book chapter
-: 'Le nationalisme romantique en Europe et la critique des styles
-  d'architecture au Brésil,' in *L'historiographie de l'architecture à
-  l'épreuve des transferts culturels*, eds. Marianna Cardoso and Hélène
-  Jannière.
-
-2020
-: [-@palazzo:2020relacoes] Coauthored with Gabriel Ernesto Moura
-  Solórzano.
-
-2019
-: [-@constanti:2019patrimonializacao] Coauthored with Andressa Pinheiro
-  Constanti.
-
-2017
-: [-@palazzo:2017cidades]
-
-2017
-: [@iphan:2017catetinho]. Survey, documentation, and preservation
-  guidelines for a historic wooden house in Brasilia, Brazil. Project
-  manager and historian.
-
-2015
-: [-@palazzo:2015planaltina6]
-
-2014
-: [-@palazzo:2014louvre]
-
-2014
-: [-@peixoto:2014tempos] Book edited in collaboration with Elane Ribeiro
-  Peixoto, Maria Fernanda Derntl, and Ricardo Trevisan.
-
-2014
-: [-@palazzo:2014cem]
-
-2013
-: [-@palazzo:2013fragmento10]
-
-2012
-: [-@palazzo:2012patrimonio]
-
-2012
-: [@iphan:2012planaltina]. Survey, documentation, and preservation
-  guidelines for a historic urban site dating back to the early nineteenth
-  century in the Brazilian Central highlands. Project manager and
-  historian.
-
-# Award #
-
-2015
-: Brazilian Institute of Architects publication award (honourable
-  mention) for the Historic Preservation Survey Report on the Historic
-  District of the Town of Planaltina.
-
-# Teaching #
-
-#### University of Brasilia School of Architecture and Urbanism ####
-
-Seminar
-: Required course (Master and Ph.D in Architecture and Urbanism)
-: Introduction to research methods in History and Theory of Architecture
-  and Urbanism.
-
-Rationalism, Anti-rationalism, and Analogies in Architecture
-: Elective course (postgraduate).
-: History of rationalist and anti-rationalist theories of architecture
-  from the 17^th^ to the 21^st^ century. Critique of arguments by
-  analogy in architectural discourse.
-
-Theories and Thinking about Architecture
-: Elective course (postgraduate).
-: Critical appraisal of architectural theories from the Renaissance to
-  the 19^th^ century. Present relevance of pre-industrial conceptions of
-  architecture. Procedural Typology.
-
-Conservation of Modern Heritage
-: Elective course (postgraduate).
-: Fundamentals of building archaeology. Differences between traditional
-  and modern construction. Critique of conservation theories and
-  principles as applied to 20^th^ century heritage.
-
-History of Architecture and Art [I]{.smallcaps}
-: Required course (Bachelor of Architecture and Urbanism).
-: Survey of art and architecture from Antiquity to the Middle Ages.
-
-History of Architecture and Art [II]{.smallcaps}
-: Required course (Bachelor of Architecture and Urbanism).
-: Survey of architecture and urbanisation from the 15^th^ to the 18^th^
-  centuries.
-
-Architecture and Urbanism in Colonial and Imperial Brazil
-: Required course (Bachelor of Architecture and Urbanism).
-: Construction and urbanisation in the territory of present-day Brazil
-  from precolumbian times to the end of the 19^th^ century.
-
-Architectural Morphology
-: Elective course (undergraduate).
-: Composition, morphology, and typology in architecture. Architectural
-  form in relation to construction and historical change.
-
-Urban Morphology
-: Elective course (undergraduate).
-: Morphological structure of urban facts. Urban typology, image of the
-  city, and townscape. Urban design and land use.
-
-Comparative Art
-: Elective course (undergraduate).
-: Comparison in aesthetic theories from the 18^th^ century to the
-  present. Expression and meaning in architecture and the visual arts.
-
-\pagebreak
-
-#### Federal University of Rio de Janeiro School of Fine Arts ####
-
-History, Ethics, and Aesthetics of Conservation
-: Required course (Bachelor of Conservation and Restoration).
-: Historical critique of the principles of conservation and restoration.
-  Italian, Austrian, American, and Spanish schools of preservation.
-  National and international charters.
-
-History of Art [IV]{.smallcaps}
-: Required course (Bachelor of Conservation and Restoration).
-: 17^th^ and 18^th^ century art in Europe.
-
-History of Art [V]{.smallcaps}
-: Required course (Bachelor of Conservation and Restoration).
-: 19^th^ century art in Europe.
-
-Art in Brazil [II]{.smallcaps}
-: Required course (Bachelor of Conservation and Restoration).
-: Visual arts in Brazil from the 16^th^ to the 18^th^ century.
-  Hybridisation between European, indigenous, and African cultures.
-
-Art in Brazil [III]{.smallcaps}
-: Required course (Bachelor of Conservation and Restoration).
-: Visual arts in Brazil during the 19^th^ century.
-
-Art Market
-: Required course (Bachelor of Conservation and Restoration).
-: Economic aspects of the work of art. Market and investment in Brazil.
-  Authenticity as an economic asset.
-
-# Leadership and Service #
+## Eventos e sociedades científicas ##
 
 2020--
-: University of Brasilia postgraduate program in Architecture and
-  Urbanism
-: Coordinator of the Historic Preservation research cluster.
+: Comité Científico do Icomos Brasil. Membro do grupo de Documentação.
+
+2022
+: Rui Florentino e Pedro P. Palazzo. Coordenação da mesa temática
+  « Saberes e práticas luso-brasileiras à margem do império
+  (1750–1930) », 3.º congresso da Associação Iberoamericana de História
+  Urbana *Construir el pasado y diseñar el futuro*, Madri, 22--25 de
+  novembro de 2022.
+
+2021--2022
+: Conferência internacional *Pandemics and Urban Form*, Ozyeğin
+  University, Istanbul. Membro do comité científico.
 
 2018--2021
-: *VI Enanparq*: National seminar of the Association for Research and
-  Postgraduate programs in Architecture, Brazil
-: Organising committee co-chair (with Dr Ricardo Trevisan and Dr
-  Carolina Pescatori).
+: [VI]{.smallcaps} Encontro da Associação Nacional de Pesquisa e
+  Pós-graduação em Arquitetura e Urbanismo: *Limiaridade*. 
+  Universidade de Brasília. Coordenador geral com Ricardo
+  Trevisan e Carolina Pescatori.
 
-2019--
-: *Journal of Traditional Building, Architecture and Urbanism*
-  ([INTBAU]{.smallcaps} Spain and Rafael Manzano Prize)
-: Scientific committee member.
+2017
+: *Structures and Representations*: the roots of design in architecture
+  and construction. Ciclo de conferências bilaterais entre a
+  Universidade de Brasília e a Université catholique de Louvain.
 
-2017--2019
-: University of Brasilia postgraduate program in Architecture and
-  Urbanism
-: Associate program director in charge of the field of Theory, History,
-  and Criticism of Architecture and Urbanism.
-
-2016
-: Federal District Culture Department, Brasilia, Brazil
-: Manager of Historic Preservation and Museums.
-
-2013--2014
-: University of Brasilia Department of History and Theory of
-  Architecture and Urbanism
-: Assistant department chair.
-
-2013--2014
-: [XIII SHCU]{.smallcaps}: National Seminar on the History of Cities and
-  Urbanism, Brazil
-: Organising committee co-chair (with Dr Elane Ribeiro Peixoto, Dr Maria
-  Fernanda Derntl, and Dr Ricardo Trevisan)
+2014
+: [XIII]{.smallcaps} Seminário de História da Cidade e do Urbanismo:
+  *Tempos e Escalas*, da Associação Nacional de pesquisa e pós-graduação
+  em Planejamento Urbano e Regional (Anpur). Brasília, 2014. Coordenador
+  geral com Elane Ribeiro Peixoto, Maria Fernanda Derntl e Ricardo
+  Trevisan.
 
 2011
-: *Brasília 50+50* joint workshop: Politecnico di Milano and University
-  of Brasilia
-: Organising committee member.
+: Workshop *Brasília 50+50*, cooperação bilateral entre a Universidade de
+  Brasília e o Politécnico de Milão. Membro do comité organizador local.
+
+## Periódicos ##
+
+2020--
+: *Journal of Traditional Building, Architecture and Urbanism*
+  ([INTBAU]{.smallcaps} Spain). Membro do comité científico.
 
 2008--
-: *Journal of Urbanism* (Taylor and Francis)
-: Editorial board member.
+: *Journal of Urbanism* (Taylor *&* Francis). Membro do conselho
+  editorial.
 
-# Master and Doctoral Supervisions #
+# Publicações #
 
-Sole supervisor except where noted otherwise.
+## Artigos em periódicos com revisão por pares ##
 
-2020--
-: Luis Henrique Colen, Master candidate
-: Thesis topic: *Late 19^th^ and early 20^th^ century architecture in
-  the west of Minas Gerais state*.
+2021
+: [@palazzo:2021modernidade]
 
-2020--
-: Evillyn Biazatti de Araujo, Master candidate
-: Thesis topic: *The régime of the* Estado Novo *and modernisation in
-  the city of Cuiabá*.
+2021
+: [@palazzo:2021vernacular]
 
-2019--
-: Irina Alencar de Oliveira, Ph.D candidate
-: Dissertation topic: *Places of memory and community appropriation in
-  the city of Goiás*.
+2021
+: [@palazzo:2021programa]
 
-2019--
-: Sylvio Carneiro de Farias, Ph.D candidate
-: Dissertation topic: *Public policies in heritage conservation in the
-  historic centre of the city of Santos*.
+2021
+: [@mennucci:2021catetinho15]
 
-2018--2020
-: Andressa Pinheiro Constanti, Master
-: Thesis: *Conservation of modern architecture within a historic site in
-  the Ladeira da Misericórdia street, Salvador*.
-: Co-supervised by Eduardo Pierrotti Rossetti
+2020
+: [@palazzo:2020literary32]
 
-2018--2020
-: Octávio Scapin Costa Pereira, Master
-: Thesis: *Architecture and psycho-analysis: theoretical crossings since
-  the 1960s*.
+2020
+: [@palazzo:2020relacoes]
 
-2018--2020
-: Gabriel Ernesto Moura Solórzano, Master
-: Thesis: *Brasilia's superblock: design, arrangement, perception*.
+2018
+: [@palazzo:2018gis-assisted10]
 
-2017--2018
-: Camila de Queiroz Pimentel Lopes, Master
-: Thesis: *Urban form in Natividade, northern Goiás province, in the
-  last third of the 18^th^ century*.
+2018
+: [@ficher:2018paradigmas]
 
-2017--2018
-: Anabel Sousa Lima, Master
-: Thesis: *Urban narratives in Italo Calvino's* Invisible Cities.
+2015
+: [@palazzo:2015planaltina6]
 
-2017--2018
-: Sylvio Carneiro de Farias, Master
-: Thesis: *The experience of the Monumenta funding program for heritage
-  conservation in the city of Cachoeira*.
+2013
+: [@palazzo:2013fragmento10]
 
-2016--2017
-: Angelina Nardelli Quaglia, Master
-: Thesis: *Urban history of the Lake Paranoá*
+2013
+: [@palazzo:2013citta65]
+
+2012
+: [@palazzo:2012architecture5]
+
+2010
+: [@ficher:2010modern]
+
+2006
+: [@palazzo:2006licoes7]
+
+2005
+: [@ficher:2005paradigmas3]
+
+## Edição de livros ##
+
+A ser publicado
+: Luciana Saboia, Denis Zastavni, Pedro P. Palazzo, and David
+  Vanderburgh, eds., *Structures and Representations: the roots of
+  design in architecture and construction* (coleta de manuscritos em
+  curso).
+
+A ser publicado
+: Pedro P. Palazzo, ed., *Neoárabe: da península Ibérica à América
+  Latina* (em negociação com a Editora Universidade de Brasília).
+  Previsão disponível no
+  <https://neoarabe.hcommons.org/>.
+
+2021
+: [@ficher:2021limiaridade]
+
+2014
+: [@peixoto:2014tempos]
+
+## Capítulos em livros ##
+
+2020
+: [@palazzo:2020funcao]
+
+2019
+: [@ficher:2019mello]
+
+2018
+: [@palazzo:2018tipologia-pt]
+
+2017
+: [@palazzo:2017missing]
+
+2014
+: [@palazzo:2014louvre]
+
+2014
+: [@palazzo:2014cem]
+
+2014
+: [@derntl:2014brasilia]
+
+2012
+: [@palazzo:2012patrimonio]
+
+## Trabalhos completos em atas de eventos científicos ##
+
+2022
+: (a ser publicado) Pedro P. Palazzo, «Comparative Histories of
+  Architecture: History, Architecture, or Idealism?», em *Conference
+  Proceedings* ([EAHN]{.smallcaps} 7^th^ International Meeting, Madri:
+  European Architectural History Network, 2022).
+
+2021
+: [@palazzo:2021casa]
+
+2021
+: [@palazzo:2021death]
+
+2021
+: [@oliveira:2021patrimonio4]
+
+2019
+: [@solorzano:2019relacoes]
+
+2019
+: [@constanti:2019patrimonializacao]
+
+2018
+: [@palazzo:2018gis3]
+
+2018
+: [@palazzo:2018accouplement2]
+
+2018
+: [@mennucci:2018catetinho2]
+
+2017
+: [@palazzo:2017patrimonializacao]
+
+2017
+: [@palazzo:2017cidades]
+
+2017
+: [@palazzo:2017cidade5]
+
+2014
+: [@palazzo:2014urbanizacao]
+
+2014
+: [@palazzo:2014urbanisation2]
+
+2013
+: [@palazzo:2013repertorios]
+
+2013
+: [@palazzo:2013sistema]
+
+2012
+: [@palazzo:2012capital239]
+
+2011
+: [@palazzo:2011hibridizacao]
+
+## Tradução ##
+
+2014
+: [@sambricio:2014projetos]
+
+# Trabalhos técnico-profissionais #
+
+## Orientações de Doutoramento em curso ##
+
+2026
+
+: [@marques:2026arquitetura]
+
+2023
+
+: [@nascimento:2023ecletismo]
+
+2022
+
+: [@oliveira:2022lugares]
+
+## Orientações de Mestrado Avançado em curso ##
+
+2024
+
+: [@araujo:2024arquitetura]
+
+2022
+
+: [@araujo:2022reconhecimento]
+
+## Orientações de Mestrado Avançado concluídas ##
+
+2021
+
+: [@almeida:2021papel]
+
+2020
+
+: [@solorzano:2020superquadra]
+
+2020
+
+: [@pereira:2020arquitetura]
+
+2020
+
+: [@constanti:2020preservacao]
+
+2019
+
+: [@bercott:2019historia]
+
+2018
+
+: [@pimentel:2018urbanizacao]
+
+2018
+
+: [@lima:2018narrativas]
+
+2018
+
+: [@farias:2018experiencia]
+
+## Arquitetura, Urbanismo e Restauro ##
+
+2022
+
+: Master plan de reabilitação urbana e rural na sede municipal das Lajes
+  do Pico, Açores. Projeto coordenado por Alejandro García Hermida no
+  âmbito da Escola de Verão em Arquitetura Tradicional, organizada pelo
+  Prémio Rafael Manzano e apoiada pela Fundação Serra Henriques.
+
+2019
+
+: Restauro e conservação preventiva dos murais de azulejos classificados
+  como património cultural na British School of Brasilia. Trabalho
+  coordenado por Pedro P. Palazzo e Juliana Gehlen, com a participação
+  de Francisca Caravellas, Márcia Severo e Sara Zampronha.
+
+2018
+
+: Master plan de reabilitação urbana e rural na freguesia da Beirã
+  (Marvão), Alentejo. Projeto coordenado por Alejandro García Hermida no
+  âmbito da Escola de Verão em Arquitetura Tradicional, organizada pelo
+  Prémio Rafael Manzano e apoiada pela Fundação Serra Henriques.
+
+2017
+
+: [@iphan:2017catetinho]. Inquérito coordenado por Pedro P. Palazzo, com
+  a participação de Marina Martins Mennucci, Tauana Ramthum do Amaral,
+  Horia Georgescu, Sarah Almeida e Sara Zampronha.
+
+2014
+
+: Exposição visual itinerante dos sítios culturais brasileiros no
+  Património mundial. Projeto arquitectónico de Narton Melo Santos,
+  curadoria museológica de Ione Carvalho, investigação cietífica e
+  produção de textos por Pedro P. Palazzo e Luciana de Maya Ricardo.
+
+2013
+
+: Sinalização interpretativa de edificações e sítios de interesse
+  turístico-cultural no conjunto urbanístico de Brasília. Projeto
+  coordenado por Pedro P. Palazzo, pesquisa e produção de textos por
+  Pedro P. Palazzo e Sara Zampronha.
+
+2012
+
+: [@iphan:2012planaltina]. Inquérito coordenado por Alessio Gallizio,
+  Pedro P. Palazzo e Ana Laterza, com a participação de Leandro Peredo,
+  Leonio Matos Gomes, Caroline Albergaria e Renata Neves.
+
+## Gestão pública ##
+
+2016
+
+: Coordenador de Museus e Património Cultural na Secretaria de Estado de
+  Cultura do Distrito Federal (Brasília). Responsável por gerir e
+  elaborar diretrizes de preservação dos sítios históricos,
+  arquitectónicos e urbanísticos listados. Membro do Comité Gestor
+  Compartilhado da Área Tombada (listada) de Brasília, património
+  mundial.
+

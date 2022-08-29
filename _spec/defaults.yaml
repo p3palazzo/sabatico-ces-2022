@@ -12,6 +12,7 @@ metadata:
   csl           : "chicago-cv.csl"
   suppress-bibliography: true
 number-sections : false
+pdf-engine      : xelatex
 variables:
   documentclass : article
   fontsize      : 12pt
